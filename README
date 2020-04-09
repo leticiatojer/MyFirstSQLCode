@@ -1,0 +1,9 @@
+Udacity Business Analytics Nanodegree - SQL Project 
+Completed in February 2020.
+
+In this project, I queried the Chinook Database, which holds information about a music store. The objective of this project was to assist the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. I was provided with the database ERD (Entity-Relationship Diagram) and the database.
+
+I was allowed to define 4 different questions that could be answered by querying the database. My final submission consisted of a PDF file containing visuals to illustrate my answers and a txt file with my SQL queries.
+
+I loved doing this project and writing these simple queries. Thanks to this recently built knowledge, I was able to query one of our system's database at work and find answers to my questions more quickly. During the project, I tried to apply everything I studied in the course, and also researched and learned about other functions, like printf().
+
